@@ -8,8 +8,11 @@ Desired Output: EDA for that data
 
 Steps hint :-
 load Data with conditions for different extensions such as csv or xlsx.
+
 Check on variable types to know how to fix their errors and visualize relations correctly
+
 start Data preprocessing to fill gabs and similar stuff with conditions.
+
 Visualize charts with conditions for different column types.
 
  
